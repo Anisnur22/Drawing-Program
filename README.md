@@ -1,4 +1,6 @@
 # Drawing-Program
+![Drawing Program Preview](https://raw.githubusercontent.com/Anisnur22/Drawing-Program/a41e1a8ab2166a4b6e8defe4f05d566c009f7c8f/image.jpg)
+
 
 This project is a Java Swing–based drawing application that allows users to create, edit, and compose images with various tools. It features a split workspace with two canvases:
 
